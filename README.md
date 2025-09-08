@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Data Analytics, Business Intelligence, and Machine Learning**  
 - 🌱 I’m currently learning **Advanced SQL, Power BI, and Data Engineering concepts**  
 - 💞️ I’m looking to collaborate on **data-driven projects, open-source analytics tools, and visualization dashboards**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/samalasaikumar) | saikumarsamala13@gmail.com**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/saikumarsamala/) | saikumarsamala13@gmail.com**  
 
 ---
 
